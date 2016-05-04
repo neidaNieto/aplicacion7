@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
 	    xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "com.phonegap.example5"
+		id          = "com.phonegap.example7"
 		versionCode = "10"
 		version     = "1.0.0" >
 		
 	<!--versionCode is opcional and Android only-->
 	
-	<name>Aplicacion tres DIA DE LA TIERRA</name>
+	<name>Aplicacion siete 5 DE MAYO</name>
 	
 	<description>
-	    Aplicacion que muestra EL DIA DE LA TIERRA
+	    Aplicacion que muestra LA CELEBRACION DEL 5 DE MAYO
 	</description>
 	
 	<preference name="phonegap-version" value="3.1.0" />
